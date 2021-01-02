@@ -1,0 +1,38 @@
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\OxysTechBilling.csprojAssemblyReference.cache
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Sidebar.resources
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Dashboard.resources
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\OxysTechBilling.csproj.GenerateResource.cache
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\OxysTechBilling.csproj.CoreCompileInputs.cache
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\Afsal Naushad\Downloads\ModernFlat-GUI-Version-Base-C-Sharp-master\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\bin\Debug\GUI_V_2.exe.config
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\bin\Debug\GUI_V_2.exe
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\bin\Debug\GUI_V_2.pdb
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Sidebar.resources
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Dashboard.resources
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\OxysTechBilling.csproj.GenerateResource.cache
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\OxysTechBilling.csproj.CoreCompileInputs.cache
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.exe
+C:\Users\Afsal Naushad\Downloads\OxysTechBilling\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.pdb
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Sidebar.resources
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Dashboard.resources
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Productos.resources
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.FormRegister.resources
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.FormLogin.resources
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.Properties.Resources.resources
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\OxysTechBilling.csproj.GenerateResource.cache
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\OxysTechBilling.csproj.CoreCompileInputs.cache
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.exe
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\GUI_V_2.pdb
+F:\Workspace\OxysTechBilling\OxysTechBilling\bin\Debug\GUI_V_2.exe.config
+F:\Workspace\OxysTechBilling\OxysTechBilling\bin\Debug\GUI_V_2.exe
+F:\Workspace\OxysTechBilling\OxysTechBilling\bin\Debug\GUI_V_2.pdb
+F:\Workspace\OxysTechBilling\OxysTechBilling\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Workspace\OxysTechBilling\OxysTechBilling\obj\Debug\OxysTechBilling.csproj.CopyComplete
