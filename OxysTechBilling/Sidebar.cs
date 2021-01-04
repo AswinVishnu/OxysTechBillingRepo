@@ -21,7 +21,7 @@ namespace GUI_V_2
         {
             if (MenuVertical.Width == 250)
             {
-                MenuVertical.Width = 70;
+                MenuVertical.Width = 60;
             }
             else
                 MenuVertical.Width = 250;
@@ -90,6 +90,76 @@ namespace GUI_V_2
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BillingButton_Click(object sender, EventArgs e)
+        {
+            if(BllingSubmenu.Visible ==false)
+                BllingSubmenu.Visible = true;
+            else
+                BllingSubmenu.Visible = false;
+
+        }
+
+        private void MenuVertical_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void ManageInventoryButton_Click(object sender, EventArgs e)
+        {
+            if (InventorySubmenu.Visible == false)
+                InventorySubmenu.Visible = true;
+            else
+                InventorySubmenu.Visible = false;
+
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (ReportsSubmenu.Visible == false)
+                ReportsSubmenu.Visible = true;
+            else
+                ReportsSubmenu.Visible = false;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+       {
+            
+                if (PromotionSubmenu.Visible == false)
+                PromotionSubmenu.Visible = true;
+            else
+                PromotionSubmenu.Visible = false;
+        }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button17_Click(object sender, EventArgs e)
         {
 
         }
