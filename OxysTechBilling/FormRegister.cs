@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SqlClient;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -96,6 +97,35 @@ namespace GUI_V_2
 
         private void btnlogin_Click(object sender, EventArgs e)
         {
+
+            if (textBox3.Text == "" || textBox4.Text == "" || textBox5.Text == "" || textBox5.Text == "")
+            {
+                MessageBox.Show("Please fill all the fields");
+            }
+            else
+            {
+
+                if (textBox5.Text != textBox5.Text)
+                {
+                    MessageBox.Show("Passwords are  not matching");
+                }
+                else
+                {
+
+                    SqlConnection con = new SqlConnection(@"Data Source=localhost\SQLEXPRESS;Initial Catalog=OxysTechBilling;Integrated Security=True");
+                    SqlCommand cmd = new SqlCommand("insert into [user] values('"+ textBox3.Text+ "','"+textBox5.Text +"','"+ textBox4.Text +"')", con);
+                    
+                    con.Open();
+                    int i =cmd.ExecuteNonQuery();
+                    con.Close();
+                    
+                    //after successful it will redirect  to next page .  
+                    FormLogin loginForm = new FormLogin();
+                    loginForm.Show();
+                    MessageBox.Show("New account created sucessfully");
+
+                }
+            }
 
         }
 
